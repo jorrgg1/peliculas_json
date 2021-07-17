@@ -1,0 +1,85 @@
+{
+    "peliculas" : [
+        {
+            "nombre" : "En lucha",
+            "nombre2" : "Embattled",
+            "fecha" : "2020",
+            "imagen" : "img/10.jpg"
+        }, {
+            "nombre" : "Angie: Lost Girls",
+            "nombre2" : "Angie: Lost Girls",
+            "fecha" : "2020",
+            "imagen" : "img/11.jpg"
+        }, {
+            "nombre" : "Un lugar tranquilo 2",
+            "nombre2" : "A Quiet Place Part ll",
+            "fecha" : "2021",
+            "imagen" : "img/1.jpg"
+        }, {
+            "nombre" : "La Purga: Infinita",
+            "nombre2" : "The Forever Purge",
+            "fecha" : "2021",
+            "imagen" : "img/12.jpg"
+        }, {
+            "nombre" : "Notre-Dame: Carrera contra el infierno",
+            "nombre2" : "Notre-Dame: Race Against the Inferno",
+            "fecha" : "2019",
+            "imagen" : "img/13.jpg"
+        }, {
+            "nombre" : "Into the Okavago",
+            "nombre2" : "Into the Okavango",
+            "fecha" : "2018",
+            "imagen" : "img/14.jpg"
+        }, {
+            "nombre" : "The Space Between",
+            "nombre2" : "The Space Betwenn",
+            "fecha" : "2021",
+            "imagen" : "img/15.jpg"
+        }, {
+            "nombre" : "Max Reload y los desintegradores abisales",
+            "nombre2" : "Max Reload and the Nether Blasters",
+            "fecha" : "2020",
+            "imagen" : "img/16.jpg"
+        }, {
+            "nombre" : "Dynasty Warriors",
+            "nombre2" : "真·三国无双",
+            "fecha" : "2021",
+            "imagen" : "img/17.jpg"
+        }, {
+            "nombre" : "Let Them All talk",
+            "nombre2" : "Let them All Talk",
+            "fecha" : "2020",
+            "imagen" : "img/18.jpg"
+        }, {
+            "nombre" : "Skylines",
+            "nombre2" : "Skylines",
+            "fecha" : "2020",
+            "imagen" : "img/18.jpg"
+        }, {
+            "nombre" : "Audible",
+            "nombre2" : "Audible",
+            "fecha" : "2021",
+            "imagen" : "img/4.jpg"
+        }, {
+            "nombre" : "La calle del terror, Parte 1: 1994",
+            "nombre2" : "Fear Street Part One: 1994",
+            "fecha" : "2021",
+            "imagen" : "img/5.jpg"
+        }, {
+            "nombre" : "Mobile Suit Gundam: Hathaway",
+            "nombre2" : "機動戦士ガンダム 閃光のハサウェイ",
+            "fecha" : "2021",
+            "imagen" : "img/7.jpg"
+        }, {
+            "nombre" : "La guerra del mañana",
+            "nombre2" : "The Tomorrow War",
+            "fecha" : "2021",
+            "imagen" : "img/8.jpg"
+        }, {
+            "nombre" : "Horario Estelar",
+            "nombre2" : "Prime Time",
+            "fecha" : "2021",
+            "imagen" : "img/9.jpg"
+        }
+    ]
+}
